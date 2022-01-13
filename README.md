@@ -1,6 +1,6 @@
 # MultiplesTestDemo
 
-This is a simple Multiples iterator displaying multiples of A until X.
+This is a iterator program displaying multiples of A until X.I have covered both the positive and negative edge cases.
 
 ## Assumptions
 ```shell
@@ -11,7 +11,7 @@ X -> an integer non-zero positive value
 
 ## How to run and test
 The code exists in java main function, and it can be executed through any java IDE run plugin, or it can also executed 
-though command line.
+through command line.
 
 ### Command Line
 ```shell
@@ -26,7 +26,7 @@ cd MultiplesTestDemo
 ```
 
 
-Here is the sample outout:
+Here is the sample output for positive test case:
 ```shell
 % java src/com/test/MultiplesIterator.java
 Enter an integer value for multiples(say A):
@@ -41,7 +41,8 @@ Following is the list of multiples of '3' until '10'
 Following is the list of multiples of '4' until '15'
 4	8	12	16	20	24	28	32	36	40	44	48	52	56	60	%     
                                                                                                                 
-                                                                                                                
+
+Here is the sample output for negative test case:
 % java src/com/test/MultiplesIterator.java                                                                                            % java src/com/test/MultiplesIterator.java
 Enter an integer value for multiples(say A):
 -2
