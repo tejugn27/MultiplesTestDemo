@@ -40,9 +40,10 @@ Following is the list of multiples of '3' until '10'
 3	6	9	12	15	18	21	24	27	30	
 Following is the list of multiples of '4' until '15'
 4	8	12	16	20	24	28	32	36	40	44	48	52	56	60	%     
-                                                                                                                
+```                                                                                                                
 
 Here is the sample output for negative test case:
+```shell
 % java src/com/test/MultiplesIterator.java                                                                                            % java src/com/test/MultiplesIterator.java
 Enter an integer value for multiples(say A):
 -2
