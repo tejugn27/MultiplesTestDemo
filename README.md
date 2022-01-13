@@ -3,7 +3,7 @@
 This is a simple Multiples iterator displaying multiples of A until X.
 
 ## Assumptions
-```aidl
+```shell
 A -> an integer value +/- 
 X -> an integer non-zero positive value
 ```
@@ -14,7 +14,7 @@ The code exists in java main function, and it can be executed through any java I
 though command line.
 
 ### Command Line
-```aidl
+```shell
 Go to project main folder:
 cd MultiplesTestDemo
 
@@ -27,7 +27,7 @@ cd MultiplesTestDemo
 
 
 Here is the sample outout:
-```aidl
+```shell
 % java src/com/test/MultiplesIterator.java
 Enter an integer value for multiples(say A):
 2
